@@ -1,4 +1,8 @@
+package app;
 
+
+import app.model.Jugador;
+import app.model.Tablero;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
